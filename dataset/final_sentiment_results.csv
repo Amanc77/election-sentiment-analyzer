@@ -1,0 +1,11 @@
+created_at,tweet,likes,retweet_count,candidate,clean_tweet,polarity,subjectivity,sentiment
+2020-10-15,Trump rally was full of energy and excitement!,52,12,Trump,trump rally full energy excitement,0.35,0.55,Positive
+2020-10-16,Many criticize Trump for his pandemic response.,28,7,Trump,many criticize trump pandemic response,0.5,0.5,Positive
+2020-10-17,Donald Trump promises economic growth after re-election.,45,10,Trump,donald trump promise economic growth election,0.2,0.2,Positive
+2020-10-18,Trump's handling of COVID-19 still questioned by many voters.,30,5,Trump,trump handling covid still questioned many voter,0.5,0.5,Positive
+2020-10-19,Supporters cheer for Trump at the Florida rally tonight.,80,25,Trump,supporter cheer trump florida rally tonight,0.0,0.0,Neutral
+2020-10-15,Joe Biden speaks about unity and hope for all Americans.,34,18,Biden,joe biden speaks unity hope american,0.0,0.0,Neutral
+2020-10-16,Biden criticized by conservatives for tax reforms proposal.,23,9,Biden,biden criticized conservative tax reform proposal,0.0,0.0,Neutral
+2020-10-17,People are inspired by Biden’s message of togetherness.,56,21,Biden,people inspired biden message togetherness,0.0,0.0,Neutral
+2020-10-18,Biden discusses healthcare improvements in his speech.,41,11,Biden,biden discusses healthcare improvement speech,0.0,0.0,Neutral
+2020-10-19,Voters appreciate Biden’s calm and respectful tone.,65,19,Biden,voter appreciate biden calm respectful tone,0.4,0.725,Positive
